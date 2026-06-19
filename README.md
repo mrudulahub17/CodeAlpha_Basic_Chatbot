@@ -11,7 +11,7 @@ A simple rule-based chatbot built using Python.
 ## ⚒️Technologies Used
 - Python
 
-##💎 Concepts Used
+## 💎Concepts Used
 - Functions
 - if-elif statements
 - while loop
