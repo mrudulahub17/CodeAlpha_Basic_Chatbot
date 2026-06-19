@@ -1,23 +1,23 @@
-# Basic Chatbot
+# ✨Basic Chatbot
 
-## Project Description
+## 📎Project Description
 A simple rule-based chatbot built using Python.
 
-## Features
+## 🪄Features
 - Responds to greetings
 - Answers simple questions
 - Exits when user types "bye"
 
-## Technologies Used
+## ⚒️Technologies Used
 - Python
 
-## Concepts Used
+##💎 Concepts Used
 - Functions
 - if-elif statements
 - while loop
 - User Input/Output
 
-## Run the Project
+## 🪄Run the Project
 
 ```bash
 python3 chatbot.py
